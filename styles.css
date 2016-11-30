@@ -1,0 +1,15 @@
+body,html{
+	background: #2ecc71;
+	margin: 0;
+	font-family: courier, monospace;
+	font-size: 12px;
+}
+
+#clock{
+	height: 100px;
+    width: 100%;
+    padding-top: 30px;
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
